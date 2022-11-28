@@ -741,7 +741,7 @@ ul {
 
 .modal__checkbox:checked + .modal__icon-checkbox {
   border-color: transparent;
-  background-image: url("../images/icons.svg#icon-check");
+  background-image: url("../images/check.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-origin: border-box;
